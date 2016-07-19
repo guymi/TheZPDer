@@ -1,9 +1,9 @@
 package org.tikal.fuse.configuration;
 
-import org.tikal.fuse.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
+import org.tikal.fuse.model.User;
 import org.tikal.fuse.repository.UserRepository;
 
 /**
